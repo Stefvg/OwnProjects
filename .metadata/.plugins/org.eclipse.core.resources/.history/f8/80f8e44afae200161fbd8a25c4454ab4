@@ -1,0 +1,7 @@
+.root {
+     -fx-background-image: url("background.jpg");
+}
+
+.label {
+ 	-fx-text-fill: red;	
+}

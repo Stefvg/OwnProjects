@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+/Users/stefvangils/Documents/Github/OwnProjects/.metadata/.plugins/org.eclipse.jdt.core
+3166136626.index
